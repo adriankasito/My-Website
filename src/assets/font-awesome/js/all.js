@@ -12198,7 +12198,7 @@
       attributes: _objectSpread(
         {
           fill: "currentColor",
-          "clip-path": "url(#".concat(clipId, ")"),
+          "": "url(#".concat(clipId, ")"),
           mask: "url(#".concat(maskId, ")"),
         },
         ALL_SPACE

@@ -42,6 +42,14 @@ const competitiveSites = {
       profileLink: "https://linkedin.com/in/adrian-kasito-8b22191aa",
     },
     {
+      siteName: "Medium",
+      iconifyClassname: "simple-icons:medium",
+      style: {
+        color: "white",
+      },
+      profileLink: "https://medium.com/@adriankc910",
+    },
+    {
       siteName: "Twitter",
       iconifyClassname: "simple-icons:twitter",
       style: {
@@ -342,47 +350,32 @@ const resumeleft = {
     data: [
       {
         title: "Data Scientist",
-        subtitle: "Nactus India Services Private Limited",
-        date: "June 2020 - present",
+        subtitle: "WHITE-MARE TECHNOLOGY LIMITED",
+        date: "May 2021 - Present",
         content: [
-          "Used T5 Transformer Model to build a Question Answering Model which generates questions based on Keywords extracted (WordNet, Sense2Vec) from studyshot notes.",
-          "Built an MCQ Generation model using BERT",
-          "Developed a personalized Chatbot using Rasa (Botfront.io).",
-          "Created an Automatic Thumbnail Generator & Uploader for our youtube videos using Youtube v3 API",
-          "Working on OpenAI's semantic search engine.",
-          "Created a Clean MaterialUI Design for prototyping and design fixing before production-ready of APP",
-          "Created FrontEnd components for StudyShot website",
-          "Working on recommendation system for concept notes and questions based on student's behavior on our Flutter App(tracking)",
+          "Automated data analysis and report generation for game park recovery initiatives in Uganda using Excel and R.",
+          "Collected, organized, and cleaned data for Murchison National Park and Queen Elizabeth National Park recovery efforts",
+          "Applied statistical methods to interpret data and create impactful visualizations.",
+          "Undertook machine learning projects to address park recovery challenges",
         ],
       },
       {
-        title: "Machine Learning Intern",
-        subtitle: "Listnr",
-        date: "April 2020 - June 2020",
+        title: "Head, Compliance & Quality Assurance",
+        subtitle: "WHITE-MARE TECHNOLOGY LIMITED",
+        date: "January 2023 - Present",
         content: [
-          "My role at Listnr included a lot of research work about Audio Encoders and Vocoders and Speech Synthesis in general.",
-          "Worked on some SOTA Inference TTS Models such as TacoTron2, FastSpeech2, and Wavenet.",
-          "Also had hands-on with real-time voice cloning algorithm.",
+          "Overseeing compliance and quality assurance processes.",
+          "Developing data-driven quality improvement initiatives.",
+      
         ],
       },
       {
-        title: "Data Science Intern",
-        subtitle: "iNeuron.ai",
-        date: "Nov 2020 - January 2021",
+        title: "Part-time Entry Level Data Analyst",
+        subtitle: "Ministry of Education, Science, Technology & Sports",
+        date: "August 2018 - December 2021",
         content: [
-          "Phase 1 included Data Cleaning & Data Annotation for object detection task",
-          "Used YOLO v5 for Fire Detection Project",
-        ],
-      },
-      {
-        title: "Summer Analytics Participant",
-        subtitle: "IIT Guwahati",
-        date: "April 2020 - June 2020",
-        content: [
-          "Learnt & applied various Machine Learning libraries",
-          "Had hands-on with Data Visualization techniques using matplotlib, plotly, streamlit",
-          "Understood and applied Neural networks using Tensorflow and finally competed in Kaggle Hackathon ranking 135 (top 16 percentile) among 854 Kaggle participants",
-          "Ranked 85 out of 1500+ students for overall performance.",
+          "Conducted data analysis and provided insights for education policy and planning",
+          "Developed data dashboards to monitor key performance indicators",
         ],
       },
     ],
@@ -395,16 +388,16 @@ const resumeright = {
       title: ["Education"],
       data: [
         {
-          title: "Bachelor of Engineering in Information Technology",
-          subtitle: "Vidyalankar Institute of Technology, Mumbai",
-          date: "2016 - 2020",
-          content: ["CGPA: 8.06/10"],
+          title: "MSc in Data Science",
+          subtitle: "University of East London, United Kingdom",
+          date: "2021 - 2023",
+          content: ["Masters with Distinctions"],
         },
         {
-          title: "Higher Secondary Certificate [HSC]",
-          subtitle: "Dr. Antonio Da Silva Technical Jr. College, Mumbai",
-          date: "2014 - 2016",
-          content: ["Precentage: 80%"],
+          title: "Bachelor of Statistics",
+          subtitle: "Makerere University, Kampala, Uganda",
+          date: "2015 - 2019",
+          
         },
       ],
     },
@@ -414,35 +407,29 @@ const resumeright = {
         {
           title: "Ranks",
           content: [
-            "#135/854 in Summer Analytics Kaggle Competition by IITG",
-            "#113/5064 in CV-NLP Hackathon by HackerEarth",
+            "#32/350 in TotalEnergies rEVolution Hackathon",
+            
           ],
         },
-        {
-          title: "Achievements",
-          content: [
-            "Designing Team Head at ACM-VIT",
-            "5⭐ Gold Badges for Python & Problem Solving at HackerRank ",
-            "Tableau Analyst & Consumer Badge by Tableau Official",
-          ],
-        },
+        
       ],
     },
     {
       title: ["Freelance Work"],
       data: [
         {
-          title: "Consultancy Website",
-          subtitle: "kidsworldeducationconsultants.com",
+          title: "Statistician",
+          subtitle: "Global Health Infectious Disease Modeling and Hazardous Pesticide Research Global Health, Uganda",
           content: [
-            "Created and hosted a website for consultancy providers in Kids Education Domain",
+            "Contributed as a statistician in global health projects with the SEIRS model in infectious disease using Berkeley Madonna, R, and Python using deterministic & probabilistic modeling",
+            "Volunteered in hazardous pesticide research analyzing cross-sector data for hazardous pesticides identification using data from the police, hospitals, and forensic laboratory",
           ],
         },
         {
-          title: "Portfolio Website",
-          subtitle: "pranavphulware.netlify.app",
+          title: "Real-Time Minute-Level Volatility Prediction, FastAPI and Open API for Microsoft",
+          subtitle: "https://github.com/adriankasito/Volatility-Forecasting-In-Microsoft-Corporation- By-Minute",
           content: [
-            "Built a personal Filmography portfolio for a friend and later hosted it at Netlify",
+            "Engineered an advanced FastAPI-based solution for real-time access to Microsoft's financial data",
           ],
         },
       ],
@@ -454,111 +441,49 @@ const resumeright = {
 const certifications = {
   certifications: [
     {
-      title: "Tableau Analyst",
-      subtitle: "Tableau",
+      title: "Applied Data Science Lab",
+      subtitle: "WorldQuant University",
       logo_path: "tabana-01.png",
       certificate_link:
-        "https://www.credly.com/badges/2d43f401-7be0-407d-9a77-7477dda8cade/linked_in_profile",
-      alt_name: "Tableau",
+        "https://www.credly.com/badges/c7bc0f11-a6a5-49a1-86c2-f7cb447fbd21/public_url",
+      alt_name: "WorldQuant University",
       color_code: "#000000",
     },
     {
-      title: "Tableau Consumer",
-      subtitle: "Tableau",
+      title: "Applied Data Science with Python Specialization",
+      subtitle: "Coursera",
       logo_path: "tabcon-01.png",
       certificate_link:
-        "https://www.credly.com/badges/e5befe7b-2eec-486f-b77e-bd2458c18b26/linked_in_profile",
-      alt_name: "Tableau",
+        "https://www.coursera.org/account/accomplishments/specialization/certificate/96N4APY5VKP7",
+      alt_name: "Coursera",
       color_code: "#000000",
     },
     {
-      title: "Problem solving",
-      subtitle: "HackerRank",
+      title: "Deep Learning Specialization",
+      subtitle: "Andrew Ng",
       logo_path: "problem-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
-      alt_name: "HackerRank",
+      certificate_link: "https://www.coursera.org/account/accomplishments/specialization/certificate/7X7HQUNEQRFZ",
+      alt_name: "Andrew Ng",
       color_code: "#000000",
     },
     {
-      title: "Python",
-      subtitle: "HackerRank",
+      title: "IT Project Management",
+      subtitle: "Unicaf University",
       logo_path: "python-01.png",
-      certificate_link: "https://www.hackerrank.com/rohankokkula",
-      alt_name: "HackerRank",
+      certificate_link: "",
+      alt_name: "Unicaf University",
       color_code: "#000000",
     },
     {
-      title: "Certificate of Merit",
-      subtitle: "Summer Analytics | IIT Guwahati",
+      title: "IBM Applied AI Professional Certificate",
+      subtitle: "IBM",
       logo_path: "iitg-01.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "IITG",
+        "https://www.coursera.org/account/accomplishments/specialization/certificate/FFFM9VR6RVA7",
+      alt_name: "IBM",
       color_code: "#000000",
     },
-    {
-      title: "Tableau Desktop Qualified Associate",
-      subtitle: "SimpliLearn",
-      logo_path: "simplilearn-01.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Simplilearn",
-      color_code: "#000000",
-    },
-    {
-      title: "Question Generation using Transformers",
-      subtitle: "Udemy",
-      logo_path: "udemy-01.png",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-b17c4c21-91e3-4f8b-b9c2-259468910985/",
-      alt_name: "Udemy",
-      color_code: "#000000",
-    },
-    {
-      title: "Machine Learning",
-      subtitle: "Stanford University",
-      logo_path: "coursera-01.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#000000",
-    },
-    {
-      title: "Data Visualization",
-      subtitle: "University of Michigan",
-      logo_path: "coursera-01.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "University of Michigan",
-      color_code: "#000000",
-    },
-    {
-      title: "Data Scientist Career Track",
-      subtitle: "DataCamp",
-      logo_path: "datacamp-01.png",
-      certificate_link:
-        "https://www.datacamp.com/statement-of-accomplishment/track/29f2ddab3fbfd0a470713a19c729c0f9d89c88aa",
-      alt_name: "DataCamp",
-      color_code: "#000000",
-    },
-    {
-      title: "PowerBI Masters",
-      subtitle: "iNeuron.ai",
-      logo_path: "ineuron-01.png",
-      certificate_link:
-        "https://academy.ineuron.ai/certificates/downloads/PB009929.pdf",
-      alt_name: "HackerRank",
-      color_code: "#000000",
-    },
-    {
-      title: "Tableau Masters",
-      subtitle: "iNeuron.ai",
-      logo_path: "ineuron-01.png",
-      certificate_link:
-        "https://academy.ineuron.ai/certificates/downloads/TB000634.pdf",
-      alt_name: "HackerRank",
-      color_code: "#000000",
-    },
+    
   ],
 };
 
@@ -566,7 +491,7 @@ const certifications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "contact.jpg",
+    profile_image_path: "jpg",
     description:
       "I'm readily accessible on various social media platforms, and you can expect a response within 24 hours. Feel free to reach out for assistance with Data Science, Machine Learning, Statistics, and Data Analysis.",
   },
