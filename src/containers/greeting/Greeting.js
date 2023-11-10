@@ -19,7 +19,7 @@ export default function Greeting(props) {
               <h1 className="greeting-text" style={{ color: theme.orange }}>
                 {greeting.title}
               </h1>
-              <h1 className="greeting-sub" style={{ color: theme.grayText }}>
+              <h1 className="greeting-sub" style={{ color: theme.cyan }}>
                 I'm <mark data-entity="">{greeting.sub}</mark>
               </h1>
               <h1 className="greeting-typewriter" style={{color: theme.blue}}>
