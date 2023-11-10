@@ -20,7 +20,7 @@ export default function Greeting(props) {
                 {greeting.title}
               </h1>
               <h1 className="greeting-sub" style={{ color: theme.grayText }}>
-                I'm <mark data-entity="person">{greeting.sub}</mark>
+                I'm <mark data-entity="">{greeting.sub}</mark>
               </h1>
               <h1 className="greeting-typewriter" style={{color: theme.blue}}>
                 <Typewriter
@@ -44,12 +44,12 @@ export default function Greeting(props) {
                 className="greeting-text-span subTitle"
                 style={{ color: theme.text }}>
                 <div className="entities">
-                  A <mark data-entity="noun">Tech enthusiast</mark>{" "}
-                  who excels at{" "}
-                  <mark data-entity="verb">crafting solutions </mark>  through the integration of 
+                  A <mark data-entity="">tech enthusiast</mark>{" "}
+                  with a proficiency in {" "}
+                  <mark data-entity="">crafting solutions </mark>  through the integration of 
       {" "}
                   <mark data-entity="skill">Data Science </mark> and a blend
-                  of <mark data-entity="freelance">Statistics</mark>
+                  of <mark data-entity="skill">Statistical expertise</mark>
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
