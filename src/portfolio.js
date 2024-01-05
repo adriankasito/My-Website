@@ -188,7 +188,7 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "",
+      link: "https://minute-volatility-5f4fa64b382d.herokuapp.com/",
       code: "https://github.com/adriankasito/Volatility-Forecasting-In-Microsoft-Corporation-By-Minute",
       linkcolor: "white",
     },
