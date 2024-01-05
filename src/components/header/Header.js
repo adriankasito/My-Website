@@ -5,7 +5,7 @@ import { NavLink, Link } from "react-router-dom";
 import { settings } from "../../portfolio.js";
 import SeoHeader from "../seoHeader/SeoHeader";
 // import { Navbar } from "react-bootstrap";
-import logo from "../../assets/logo/logos.png";
+import logo from "../../assets/logo/logo.png";
 const onMouseEnter = (event, color) => {
   const el = event.target;
   el.style.backgroundColor = color;
