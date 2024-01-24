@@ -165,7 +165,7 @@ const projectcards = {
       title: "Volatility Forecasting In Microsoft By Minute",
       img_path: "voice.gif",
       description:
-        "A streamlit webapp which detects user's gender and emotion based on realtime audio input.",
+        "A web app for real-time volatility forecasting for Microsoft Corporation's financial data by minute-level data using FastAPI which can be valuable for risk management and trading strategies.",
       tags: [
         {
           lang: "python",
