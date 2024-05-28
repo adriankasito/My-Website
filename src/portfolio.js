@@ -133,7 +133,7 @@ const projectcards = {
       title: "Rshiny Analysis Dashboard",
       img_path: "rshiny.gif",
       description:
-        "<i>A dashboard for vehicle collision analysis using Rshiny</i>",
+        "A dashboard for vehicle collision analysis using Rshiny",
       tags: [
         {
           lang: "r programming",
@@ -165,7 +165,7 @@ const projectcards = {
       title: "Volatility Forecasting In Microsoft By Minute",
       img_path: "voice.gif",
       description:
-        "<i>A web app for real-time volatility forecasting for Microsoft Corporation's financial data by minute-level data using FastAPI which can be valuable for risk management and trading strategies.</i>",
+        "A web app for real-time volatility forecasting for Microsoft Corporation's financial data by minute-level data using FastAPI which can be valuable for risk management and trading strategies.",
       tags: [
         {
           lang: "python",
@@ -196,7 +196,7 @@ const projectcards = {
       title: "Streamlit Dashboard",
       img_path: "streamlit.png",
       description:
-        "<i>This Streamlit-based project for Fruit Type Prediction using Machine Learning</i>",
+        "This Streamlit-based project for Fruit Type Prediction using Machine Learning",
       tags: [
         {
           lang: "python",
@@ -235,7 +235,7 @@ const projectcards = {
       title: "Nairobi Bus Ticket Sales Prediction Project",
       img_path: "news.gif",
       description:
-        "<i>The objective was to develop a predictive model that could estimate the number of tickets sold for different bus rides in Nairobi.</i>",
+        "The objective was to develop a predictive model that could estimate the number of tickets sold for different bus rides in Nairobi.",
       tags: [
         {
           lang: "python",
@@ -291,7 +291,7 @@ const projectcards = {
       title: "Image Classification With Convolutional Networks",
       img_path: "neural.gif",
       description:
-        "<i>An engaging project that utilizes convolutional neural networks in Keras for image classification.</i>",
+        "An engaging project that utilizes convolutional neural networks in Keras for image classification.",
       tags: [
         {
           lang: "python",
@@ -318,7 +318,7 @@ const projectcards = {
       title: "Air-Quality-Prediction",
       img_path: "airquality.gif",
       description:
-        "<i>A forecasting model for the concentration of carbon monoxide [PT08.S1(CO) Level], a crucial indicator of air quality.</i>",
+        "A forecasting model for the concentration of carbon monoxide [PT08.S1(CO) Level], a crucial indicator of air quality.",
       tags: [
         {
           lang: "python",
