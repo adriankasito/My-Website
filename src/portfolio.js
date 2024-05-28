@@ -196,7 +196,7 @@ const projectcards = {
       title: "Streamlit Dashboard",
       img_path: "streamlit.png",
       description:
-        "This Streamlit-based project provides an interactive dashboard for analyzing motor vehicle collisions in New York City",
+        "This Streamlit-based project for Fruit Type Prediction using Machine Learning",
       tags: [
         {
           lang: "python",
@@ -227,8 +227,8 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "https://motor-vehicle-collisions-in-new-york.streamlit.app/",
-      code: "https://github.com/adriankasito/Streamlit-Motor-Vehicle-Collisions-In-New-York-City",
+      link: "https://adriankasito-fruit-type-prediction-web-applicatio-fruits-wz62t4.streamlit.app/",
+      code: "https://github.com/adriankasito/Fruit-Type-Prediction-Web-Application-using-Streamlit",
       linkcolor: "white",
     },
     {
