@@ -19,7 +19,7 @@ const greeting = {
   title: "Hello!",
   sub: "Adrian Kasito",
   logo_name: "Adrian Kasito",
-  resumeLink: "https://drive.google.com/file/d/1Bhi6PP1vkUCcTVxx7OsgA1CfCHWpbRzi/view?usp=drive_link",
+  resumeLink: "https://drive.google.com/file/d/1H27NTtbbZQHTDnookGUrZ_qE2KB2-X7I/view?usp=drive_link",
 };
 
 // home logos
