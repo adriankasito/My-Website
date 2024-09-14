@@ -193,42 +193,30 @@ const projectcards = {
       linkcolor: "white",
     },
     {
-      title: "Streamlit Dashboard",
-      img_path: "streamlit.png",
+      title: "Ky Sales, Inventory & HR Dashboard",
+      img_path: "tableau.png",
       description:
-        "This Streamlit-based project for Fruit Type Prediction using Machine Learning",
+        "Developing (in progress) a cloud-based dashboard for Kyadongo Bar, hosted on Microsoft Azure, integrating Tableau, MySQL, and POS data to analyze sales, finance, costs, inventory, and labor, and drive informed decision-making and operational optimization.",
       tags: [
+        
         {
-          lang: "python",
-          color: "#004782",
-        },
-        {
-          lang: "numpy",
-          color: "#8700b0",
-        },
-        {
-          lang: "matplotlib",
-          color: "#c47206",
-        },
-        {
-          lang: "Streamlit",
+          lang: "POS Integration",
           color: "#ff4b4b",
         },
         {
-          lang: "pydeck",
+          lang: "Tableau",
           color: "#3c0095",
         },
         {
-          lang: "pandas",
+          lang: "MySQL",
           color: "#004782",
         },
         {
-          lang: "plotly",
+          lang: "Microsoft Azure",
           color: "#ff4b4b",
         },
       ],
-      link: "https://adriankasito-fruit-type-prediction-web-applicatio-fruits-wz62t4.streamlit.app",
-      code: "https://github.com/adriankasito/Fruit-Type-Prediction-Web-Application-using-Streamlit",
+      link: "https://public.tableau.com/app/profile/adrian.kasito6806/viz/KySalesInventoryHRAnalyticsDashboard/InventoryHRDashboard?publish=yes",
       linkcolor: "white",
     },
     {
@@ -288,30 +276,42 @@ const projectcards = {
     // },
 
     {
-      title: "Image Classification With Convolutional Networks",
-      img_path: "neural.gif",
+      title: "Streamlit Dashboard",
+      img_path: "streamlit.png",
       description:
-        "An engaging project that utilizes convolutional neural networks in Keras for image classification.",
+        "This Streamlit-based project for Fruit Type Prediction using Machine Learning",
       tags: [
         {
           lang: "python",
           color: "#004782",
         },
         {
-          lang: "tensorflow",
-          color: "#303030",
+          lang: "numpy",
+          color: "#8700b0",
         },
         {
-          lang: "keras",
+          lang: "matplotlib",
+          color: "#c47206",
+        },
+        {
+          lang: "Streamlit",
           color: "#ff4b4b",
         },
         {
-          lang: "cv2",
-          color: "#051c61",
+          lang: "pydeck",
+          color: "#3c0095",
+        },
+        {
+          lang: "pandas",
+          color: "#004782",
+        },
+        {
+          lang: "plotly",
+          color: "#ff4b4b",
         },
       ],
-      link: "https://github.com/adriankasito/Interesting-Image-Classification-Convolutional-Networks-Keras-",
-      code: "https://github.com/adriankasito/Interesting-Image-Classification-Convolutional-Networks-Keras-",
+      link: "https://adriankasito-fruit-type-prediction-web-applicatio-fruits-wz62t4.streamlit.app",
+      code: "https://github.com/adriankasito/Fruit-Type-Prediction-Web-Application-using-Streamlit",
       linkcolor: "white",
     },
     {
