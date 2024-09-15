@@ -497,11 +497,11 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Kampala-Uganda",
+    subtitle: "8 Rés Alphonse Daudet, 84500 Bollène",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+256 701243667",
+    subtitle: "+33-627-149-093",
   },
 };
 
