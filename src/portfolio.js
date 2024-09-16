@@ -196,7 +196,7 @@ const projectcards = {
       title: "Ky Sales, Inventory & HR Dashboard",
       img_path: "tableau.png",
       description:
-        "Developing (in progress) a cloud-based dashboard for Kyadongo Bar, hosted on Microsoft Azure, integrating Tableau, MySQL, and POS data to analyze sales, finance, costs, inventory, and labor, and drive informed decision-making and operational optimization.",
+        "Developing (in progress) a cloud-based dashboard for Kyadongo Bar with demo data, hosted on Microsoft Azure, integrating Tableau, MySQL, and POS data to analyze sales, finance, costs, inventory, and labor, and drive informed decision-making and operational optimization.",
       tags: [
         
         {
