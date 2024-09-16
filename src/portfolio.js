@@ -216,7 +216,7 @@ const projectcards = {
           color: "#ff4b4b",
         },
       ],
-      link: "https://public.tableau.com/app/profile/adrian.kasito6806/viz/KySalesInventoryHRAnalyticsDashboard/InventoryHRDashboard?publish=yes",
+      link: "https://public.tableau.com/views/KySalesInventoryHRAnalyticsDashboard/KyadondoSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
       linkcolor: "white",
     },
     {
