@@ -497,7 +497,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "8 Rés Alphonse Daudet, 84500 Bollène",
+    subtitle: "8 Rue Guillé, 26700 Pierrelate",
   },
   phoneSection: {
     title: "Phone Number",
